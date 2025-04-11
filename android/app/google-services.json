@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359357413196",
+    "project_id": "peticiones-fireb2",
+    "storage_bucket": "peticiones-fireb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359357413196:android:90f726796e0033014a01e9",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyD5S6w5LdCY4O8eeS8X1BLyOSoYhydg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
